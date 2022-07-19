@@ -133,4 +133,16 @@ hr {
    
 }
 
+.course{
+ transition: 0.4s;
+} 
+.course:hover{
+    box-shadow:0px 1px 1px 2px #06f1be;
+    transform: scaleX(1.1);
+    border: 2px solid #c9c6c6;
+    border-radius: 5px;
+    
+   
+}
+
 /* ------------courses styles end---------------- */
